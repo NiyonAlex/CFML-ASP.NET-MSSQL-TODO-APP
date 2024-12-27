@@ -1,3 +1,22 @@
 /.vscode
-/backend/bin
-/backend/obj
+/backend/bin/
+/backend/obj/
+
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer and VS setup files
+*.vsix
