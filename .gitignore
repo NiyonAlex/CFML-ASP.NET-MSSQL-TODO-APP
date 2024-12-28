@@ -1,6 +1,6 @@
 /.vscode
-/backend/bin/
-/backend/obj/
+/backend/todoapi/bin/
+/backend/todoapi/obj/
 
 .vs/
 .vscode/
